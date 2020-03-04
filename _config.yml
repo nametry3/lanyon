@@ -7,8 +7,8 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
+title:            Un intento más
+tagline:          'The Game'
 description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 baseurl:          "http://nametry3.github.io/lanyon"
 
